@@ -1,4 +1,4 @@
-#Incubyte Assessment
+# Incubyte Assessment
 - Create Table in DataBase
 - Insert Record in DataBase
 - Connectivety to Database in python
